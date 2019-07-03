@@ -1,0 +1,4 @@
+io\cloudbeat\cucumber\RunCucumberTest.class
+io\cloudbeat\cucumber\glue\other\DayDefs.class
+io\cloudbeat\cucumber\glue\selenium\SeleniumDefs.class
+io\cloudbeat\cucumber\glue\selenium\SeleniumDefs$1.class
