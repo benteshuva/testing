@@ -1,5 +1,5 @@
 @somefeature
-Feature: Is it Testing time? Hi
+Feature: Is it Testing time? Testttttttttt
   Everybody wants to know when it's Friday
 
 
